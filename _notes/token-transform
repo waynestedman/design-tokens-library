@@ -1,1 +1,3 @@
-node token-transformer tokens/input.json tokens/output.json
+
+/** in tokens/ **/
+npx token-transformer input.json output.json
