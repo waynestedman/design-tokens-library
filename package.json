@@ -1,0 +1,24 @@
+{
+  "name": "design-tokens-example",
+  "description": "Design Tokens for an example project",
+  "version": "0.0.1",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynestedman/design-tokens-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynestedman/design-tokens-example/issues"
+  },
+  "homepage": "https://github.com/waynestedman/design-tokens-example#readme",
+  "dependencies": {
+    "token-transformer": "^0.0.19"
+  }
+}
