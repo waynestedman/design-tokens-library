@@ -10,6 +10,7 @@
     "style-dictionary": "^3.7.0"
   },
   "scripts": {
+    "build": "style-dictionary build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "transform": "npx token-transformer input.json tokens/tokens.json"
   },
