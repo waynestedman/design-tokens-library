@@ -1,21 +1,41 @@
 {
   "global": {
-    "teal": {
+    "teal-01": {
       "value": "#009688",
       "description": "teal-01",
       "type": "color"
     },
-    "blue": {
-      "value": "#005a96",
+    "teal-02": {
+      "value": "#52c7b8",
+      "description": "teal-02",
+      "type": "color"
+    },
+    "teal-03": {
+      "value": "#00675b",
+      "description": "teal-03",
+      "type": "color"
+    },
+    "blue-01": {
+      "value": "#64b5f6",
       "description": "blue-01",
       "type": "color"
     },
-    "purple": {
+    "blue-02": {
+      "value": "#9be7ff",
+      "description": "blue-02",
+      "type": "color"
+    },
+    "blue-03": {
+      "value": "#2286c3",
+      "description": "blue-03",
+      "type": "color"
+    },
+    "purple-01": {
       "value": "#870096",
       "description": "purple-01",
       "type": "color"
     },
-    "red": {
+    "red-01": {
       "value": "#96000f",
       "description": "red-01",
       "type": "color"
@@ -219,6 +239,21 @@
       },
       "description": "button-01",
       "type": "typography"
+    },
+    "gray-01": {
+      "value": "#c7c7c7",
+      "description": "gary-01",
+      "type": "color"
+    },
+    "gray-02": {
+      "value": "#eeeeee",
+      "description": "gary-02",
+      "type": "color"
+    },
+    "gray-03": {
+      "value": "#212121",
+      "description": "gary-03",
+      "type": "color"
     }
   }
 }
