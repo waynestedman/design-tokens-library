@@ -4,13 +4,15 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 06 Mar 2022 22:13:58 GMT
+// Generated on Sun, 06 Mar 2022 23:20:07 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let blue = #005a96
+    internal static let blue01 = #64b5f6
+    internal static let blue02 = #9be7ff
+    internal static let blue03 = #2286c3
     internal static let body = 16px
     internal static let body01 = [object Object]
     internal static let button = 14px
@@ -25,6 +27,9 @@ internal struct StyleDictionaryStruct {
     internal static let colorFontBase = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
     internal static let colorFontSecondary = UIColor(red: 0.000, green: 1.000, blue: 0.000, alpha: 1)
     internal static let colorFontTertiary = UIColor(red: 0.800, green: 0.800, blue: 0.800, alpha: 1)
+    internal static let gray01 = #c7c7c7
+    internal static let gray02 = #eeeeee
+    internal static let gray03 = #212121
     internal static let h1 = 98px
     internal static let h2 = 61px
     internal static let h3 = 49px
@@ -38,14 +43,16 @@ internal struct StyleDictionaryStruct {
     internal static let heading5 = [object Object]
     internal static let heading6 = [object Object]
     internal static let montserrat = Montserrat
-    internal static let purple = #870096
+    internal static let purple01 = #870096
     internal static let raleway = Raleway
-    internal static let red = #96000f
+    internal static let red01 = #96000f
     internal static let sizeFontBase = CGFloat(16.00) /* the base size of the font */
     internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     internal static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
     internal static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
     internal static let subtitle = 16px
     internal static let subtitle01 = [object Object]
-    internal static let teal = #009688
+    internal static let teal01 = #009688
+    internal static let teal02 = #52c7b8
+    internal static let teal03 = #00675b
 }

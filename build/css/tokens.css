@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 06 Mar 2022 22:13:58 GMT
+ * Generated on Sun, 06 Mar 2022 23:20:07 GMT
  */
 
 :root {
@@ -16,10 +16,14 @@
   --size-font-medium: 1rem; /* the medium size of the font */
   --size-font-large: 2rem; /* the large size of the font */
   --size-font-base: 1rem; /* the base size of the font */
-  --teal: #009688;
-  --blue: #005a96;
-  --purple: #870096;
-  --red: #96000f;
+  --teal-01: #009688;
+  --teal-02: #52c7b8;
+  --teal-03: #00675b;
+  --blue-01: #64b5f6;
+  --blue-02: #9be7ff;
+  --blue-03: #2286c3;
+  --purple-01: #870096;
+  --red-01: #96000f;
   --h1: 98px;
   --h2: 61px;
   --h3: 49px;
@@ -42,4 +46,7 @@
   --body-01: [object Object];
   --caption-01: [object Object];
   --button-01: [object Object];
+  --gray-01: #c7c7c7;
+  --gray-02: #eeeeee;
+  --gray-03: #212121;
 }
