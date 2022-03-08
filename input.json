@@ -41,32 +41,32 @@
       "type": "color"
     },
     "h1": {
-      "value": "98px",
+      "value": "61px",
       "description": "h1",
       "type": "fontSizes"
     },
     "h2": {
-      "value": "61px",
+      "value": "49px",
       "description": "h2",
       "type": "fontSizes"
     },
     "h3": {
-      "value": "49px",
+      "value": "35px",
       "description": "h3",
       "type": "fontSizes"
     },
     "h4": {
-      "value": "35px",
+      "value": "24px",
       "description": "h4",
       "type": "fontSizes"
     },
     "h5": {
-      "value": "24px",
+      "value": "20px",
       "description": "h5",
       "type": "fontSizes"
     },
     "h6": {
-      "value": "20px",
+      "value": "16px",
       "description": "h6",
       "type": "fontSizes"
     },
@@ -76,7 +76,7 @@
       "type": "fontSizes"
     },
     "subtitle": {
-      "value": "16px",
+      "value": "14px",
       "description": "subtitle",
       "type": "fontSizes"
     },
@@ -189,7 +189,7 @@
         "fontFamily": "{raleway}",
         "fontWeight": "Regular",
         "lineHeight": "AUTO",
-        "fontSize": "18",
+        "fontSize": "{subtitle}",
         "letterSpacing": "0%",
         "paragraphSpacing": "0",
         "textDecoration": "none",
