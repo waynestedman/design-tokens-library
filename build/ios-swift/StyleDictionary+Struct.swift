@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 08 Mar 2022 02:06:48 GMT
+// Generated on Tue, 08 Mar 2022 18:39:56 GMT
 
 
 import UIKit
@@ -30,12 +30,12 @@ internal struct StyleDictionaryStruct {
     internal static let gray01 = #c7c7c7
     internal static let gray02 = #eeeeee
     internal static let gray03 = #212121
-    internal static let h1 = 61px
-    internal static let h2 = 49px
-    internal static let h3 = 35px
-    internal static let h4 = 24px
-    internal static let h5 = 20px
-    internal static let h6 = 16px
+    internal static let h1 = 38px
+    internal static let h2 = 34px
+    internal static let h3 = 30px
+    internal static let h4 = 26px
+    internal static let h5 = 22px
+    internal static let h6 = 18px
     internal static let heading1 = [object Object]
     internal static let heading2 = [object Object]
     internal static let heading3 = [object Object]

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 08 Mar 2022 02:06:48 GMT
+// Generated on Tue, 08 Mar 2022 18:39:56 GMT
 
 
 import UIKit
@@ -30,12 +30,12 @@ public class StyleDictionaryClass {
     public static let gray01 = #c7c7c7
     public static let gray02 = #eeeeee
     public static let gray03 = #212121
-    public static let h1 = 61px
-    public static let h2 = 49px
-    public static let h3 = 35px
-    public static let h4 = 24px
-    public static let h5 = 20px
-    public static let h6 = 16px
+    public static let h1 = 38px
+    public static let h2 = 34px
+    public static let h3 = 30px
+    public static let h4 = 26px
+    public static let h5 = 22px
+    public static let h6 = 18px
     public static let heading1 = [object Object]
     public static let heading2 = [object Object]
     public static let heading3 = [object Object]
