@@ -1,3 +1,8 @@
+/** get new tokens **/
+git pull
 
-/** in tokens/ **/
+/** transform new tokens into style dictionary raedable **/
 npx token-transformer input.json tokens/tokens.json
+
+/** generate platform versions of tokens **/
+npm run build

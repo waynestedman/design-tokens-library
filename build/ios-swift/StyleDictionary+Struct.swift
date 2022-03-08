@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 06 Mar 2022 23:20:07 GMT
+// Generated on Tue, 08 Mar 2022 02:06:48 GMT
 
 
 import UIKit
@@ -30,12 +30,12 @@ internal struct StyleDictionaryStruct {
     internal static let gray01 = #c7c7c7
     internal static let gray02 = #eeeeee
     internal static let gray03 = #212121
-    internal static let h1 = 98px
-    internal static let h2 = 61px
-    internal static let h3 = 49px
-    internal static let h4 = 35px
-    internal static let h5 = 24px
-    internal static let h6 = 20px
+    internal static let h1 = 61px
+    internal static let h2 = 49px
+    internal static let h3 = 35px
+    internal static let h4 = 24px
+    internal static let h5 = 20px
+    internal static let h6 = 16px
     internal static let heading1 = [object Object]
     internal static let heading2 = [object Object]
     internal static let heading3 = [object Object]
@@ -50,7 +50,7 @@ internal struct StyleDictionaryStruct {
     internal static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     internal static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
     internal static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
-    internal static let subtitle = 16px
+    internal static let subtitle = 14px
     internal static let subtitle01 = [object Object]
     internal static let teal01 = #009688
     internal static let teal02 = #52c7b8

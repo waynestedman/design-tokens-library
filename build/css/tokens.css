@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 06 Mar 2022 23:20:07 GMT
+ * Generated on Tue, 08 Mar 2022 02:06:48 GMT
  */
 
 :root {
@@ -24,14 +24,14 @@
   --blue-03: #2286c3;
   --purple-01: #870096;
   --red-01: #96000f;
-  --h1: 98px;
-  --h2: 61px;
-  --h3: 49px;
-  --h4: 35px;
-  --h5: 24px;
-  --h6: 20px;
+  --h1: 61px;
+  --h2: 49px;
+  --h3: 35px;
+  --h4: 24px;
+  --h5: 20px;
+  --h6: 16px;
   --body: 16px;
-  --subtitle: 16px;
+  --subtitle: 14px;
   --button: 14px;
   --caption: 12px;
   --raleway: Raleway;

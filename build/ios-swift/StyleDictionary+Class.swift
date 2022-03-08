@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 06 Mar 2022 23:20:07 GMT
+// Generated on Tue, 08 Mar 2022 02:06:48 GMT
 
 
 import UIKit
@@ -30,12 +30,12 @@ public class StyleDictionaryClass {
     public static let gray01 = #c7c7c7
     public static let gray02 = #eeeeee
     public static let gray03 = #212121
-    public static let h1 = 98px
-    public static let h2 = 61px
-    public static let h3 = 49px
-    public static let h4 = 35px
-    public static let h5 = 24px
-    public static let h6 = 20px
+    public static let h1 = 61px
+    public static let h2 = 49px
+    public static let h3 = 35px
+    public static let h4 = 24px
+    public static let h5 = 20px
+    public static let h6 = 16px
     public static let heading1 = [object Object]
     public static let heading2 = [object Object]
     public static let heading3 = [object Object]
@@ -50,7 +50,7 @@ public class StyleDictionaryClass {
     public static let sizeFontLarge = CGFloat(32.00) /* the large size of the font */
     public static let sizeFontMedium = CGFloat(16.00) /* the medium size of the font */
     public static let sizeFontSmall = CGFloat(12.00) /* the small size of the font */
-    public static let subtitle = 16px
+    public static let subtitle = 14px
     public static let subtitle01 = [object Object]
     public static let teal01 = #009688
     public static let teal02 = #52c7b8
