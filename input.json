@@ -41,32 +41,32 @@
       "type": "color"
     },
     "h1": {
-      "value": "61px",
+      "value": "38px",
       "description": "h1",
       "type": "fontSizes"
     },
     "h2": {
-      "value": "49px",
+      "value": "34px",
       "description": "h2",
       "type": "fontSizes"
     },
     "h3": {
-      "value": "35px",
+      "value": "30px",
       "description": "h3",
       "type": "fontSizes"
     },
     "h4": {
-      "value": "24px",
+      "value": "26px",
       "description": "h4",
       "type": "fontSizes"
     },
     "h5": {
-      "value": "20px",
+      "value": "22px",
       "description": "h5",
       "type": "fontSizes"
     },
     "h6": {
-      "value": "16px",
+      "value": "18px",
       "description": "h6",
       "type": "fontSizes"
     },
