@@ -2,16 +2,8 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 08 Mar 2022 18:39:56 GMT
+  Generated on Thu, 01 Dec 2022 22:41:21 GMT
 -->
 <resources>
-  <color name="color_base_gray_light">#ffcccccc</color>
-  <color name="color_base_gray_medium">#ff999999</color>
-  <color name="color_base_gray_dark">#ff111111</color>
-  <color name="color_base_red">#ffff0000</color>
-  <color name="color_base_green">#ff00ff00</color>
-  <color name="color_font_base">#ffff0000</color>
-  <color name="color_font_secondary">#ff00ff00</color>
-  <color name="color_font_tertiary">#ffcccccc</color>
   
 </resources>

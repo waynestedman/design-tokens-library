@@ -1,0 +1,116 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  },
+  "radius01": {
+    "value": "8px",
+    "type": "borderRadius"
+  },
+  "radius02": {
+    "value": "50px",
+    "type": "borderRadius"
+  },
+  "radius03": {
+    "value": "18px",
+    "type": "borderRadius"
+  },
+  "teal01": {
+    "value": "#00e6d6",
+    "type": "color"
+  },
+  "teal02": {
+    "value": "#9dfffd",
+    "type": "color"
+  },
+  "teal03": {
+    "value": "#00998f",
+    "type": "color"
+  },
+  "indigo01": {
+    "value": "#152a47",
+    "type": "color"
+  },
+  "indigo02": {
+    "value": "#6c90e6",
+    "type": "color"
+  },
+  "gray01": {
+    "value": "#c7c7c7",
+    "type": "color"
+  },
+  "gray02": {
+    "value": "#eeeeee",
+    "type": "color"
+  },
+  "gray03": {
+    "value": "#212121",
+    "type": "color"
+  },
+  "raleway": {
+    "value": "raleway",
+    "type": "fontFamilies"
+  },
+  "montserrat": {
+    "value": "montserrat",
+    "type": "fontFamilies"
+  },
+  "regular": {
+    "value": 400,
+    "type": "fontWeights"
+  },
+  "bold": {
+    "value": 700,
+    "type": "fontWeights"
+  },
+  "semi-bold": {
+    "value": 500,
+    "type": "fontWeights"
+  },
+  "light": {
+    "value": 300,
+    "type": "fontWeights"
+  },
+  "h1": {
+    "value": "38px",
+    "type": "fontSizes"
+  },
+  "h2": {
+    "value": "34px",
+    "type": "fontSizes"
+  },
+  "h3": {
+    "value": "30px",
+    "type": "fontSizes"
+  },
+  "h4": {
+    "value": "26px",
+    "type": "fontSizes"
+  },
+  "h5": {
+    "value": "22px",
+    "type": "fontSizes"
+  },
+  "h6": {
+    "value": "18px",
+    "type": "fontSizes"
+  },
+  "subtitle": {
+    "value": "14px",
+    "type": "fontSizes"
+  },
+  "p": {
+    "value": "16px",
+    "type": "fontSizes"
+  },
+  "button": {
+    "value": "14px",
+    "type": "fontSizes"
+  },
+  "caption": {
+    "value": "12px",
+    "type": "fontSizes"
+  }
+}

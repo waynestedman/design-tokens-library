@@ -1,0 +1,265 @@
+{
+  "microDS": {
+    "teal01": {
+      "value": "#00e6d6",
+      "type": "color",
+      "description": "primary"
+    },
+    "teal02": {
+      "value": "#9dfffd",
+      "type": "color",
+      "description": "primary.light"
+    },
+    "teal03": {
+      "value": "#00998f",
+      "type": "color",
+      "description": "primary.dark"
+    },
+    "h1": {
+      "value": "38px",
+      "description": "h1",
+      "type": "fontSizes"
+    },
+    "h2": {
+      "value": "34px",
+      "description": "h2",
+      "type": "fontSizes"
+    },
+    "h3": {
+      "value": "30px",
+      "description": "h3",
+      "type": "fontSizes"
+    },
+    "h4": {
+      "value": "26px",
+      "description": "h4",
+      "type": "fontSizes"
+    },
+    "h5": {
+      "value": "22px",
+      "description": "h5",
+      "type": "fontSizes"
+    },
+    "h6": {
+      "value": "18px",
+      "description": "h6",
+      "type": "fontSizes"
+    },
+    "body01": {
+      "value": "16px",
+      "type": "fontSizes",
+      "description": "body"
+    },
+    "subtitle01": {
+      "value": "14px",
+      "type": "fontSizes",
+      "description": "subtitle"
+    },
+    "button01": {
+      "value": "14px",
+      "type": "fontSizes",
+      "description": "button"
+    },
+    "caption01": {
+      "value": "12px",
+      "type": "fontSizes",
+      "description": "caption"
+    },
+    "raleway": {
+      "value": "Raleway",
+      "description": "raleway",
+      "type": "fontFamilies"
+    },
+    "heading1": {
+      "value": {
+        "fontFamily": "{raleway}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{h1}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "heading1",
+      "type": "typography"
+    },
+    "montserrat": {
+      "value": "Montserrat",
+      "description": "montserrat",
+      "type": "fontFamilies"
+    },
+    "heading2": {
+      "value": {
+        "fontFamily": "{raleway}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{h2}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "heading2",
+      "type": "typography"
+    },
+    "heading3": {
+      "value": {
+        "fontFamily": "{raleway}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{h3}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "heading3",
+      "type": "typography"
+    },
+    "heading4": {
+      "value": {
+        "fontFamily": "{raleway}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{h4}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "heading4",
+      "type": "typography"
+    },
+    "heading5": {
+      "value": {
+        "fontFamily": "{raleway}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{h5}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "heading5",
+      "type": "typography"
+    },
+    "heading6": {
+      "value": {
+        "fontFamily": "{raleway}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{h6}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "description": "heading6",
+      "type": "typography"
+    },
+    "subtitle": {
+      "value": {
+        "fontFamily": "{raleway}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{subtitle01}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "subtitle"
+    },
+    "body": {
+      "value": {
+        "fontFamily": "{montserrat}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{body01}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "body"
+    },
+    "caption": {
+      "value": {
+        "fontFamily": "{montserrat}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{caption01}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "caption"
+    },
+    "button": {
+      "value": {
+        "fontFamily": "{montserrat}",
+        "fontWeight": "Regular",
+        "lineHeight": "AUTO",
+        "fontSize": "{button01}",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "0",
+        "textDecoration": "none",
+        "textCase": "none"
+      },
+      "type": "typography",
+      "description": "button"
+    },
+    "gray01": {
+      "value": "#c7c7c7",
+      "type": "color",
+      "description": "gary"
+    },
+    "gray02": {
+      "value": "#eeeeee",
+      "type": "color",
+      "description": "gray.light"
+    },
+    "gray03": {
+      "value": "#212121",
+      "type": "color",
+      "description": "gray.dark"
+    },
+    "indigo01": {
+      "value": "#152a47",
+      "type": "color",
+      "description": "secondary"
+    },
+    "indigo02": {
+      "value": "#6c90e6",
+      "type": "color",
+      "description": "secondary.light"
+    },
+    "primary": {
+      "value": "8px",
+      "type": "borderRadius",
+      "description": "primary"
+    },
+    "round": {
+      "value": "50",
+      "type": "borderRadius",
+      "description": "round"
+    },
+    "pill": {
+      "value": "18",
+      "type": "borderRadius",
+      "description": "pill"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "microDS"
+    ]
+  }
+}

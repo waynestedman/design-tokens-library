@@ -1,52 +1,35 @@
 /**
  * Do not edit directly
- * Generated on Tue, 08 Mar 2022 18:39:56 GMT
+ * Generated on Thu, 01 Dec 2022 22:41:21 GMT
  */
 
 :root {
-  --color-base-gray-light: #cccccc;
-  --color-base-gray-medium: #999999;
-  --color-base-gray-dark: #111111;
-  --color-base-red: #ff0000;
-  --color-base-green: #00ff00;
-  --color-font-base: #ff0000;
-  --color-font-secondary: #00ff00;
-  --color-font-tertiary: #cccccc;
-  --size-font-small: 0.75rem; /* the small size of the font */
-  --size-font-medium: 1rem; /* the medium size of the font */
-  --size-font-large: 2rem; /* the large size of the font */
-  --size-font-base: 1rem; /* the base size of the font */
-  --teal-01: #009688;
-  --teal-02: #52c7b8;
-  --teal-03: #00675b;
-  --blue-01: #64b5f6;
-  --blue-02: #9be7ff;
-  --blue-03: #2286c3;
-  --purple-01: #870096;
-  --red-01: #96000f;
+  --token-set-order-0: global;
+  --radius01: 8px;
+  --radius02: 50px;
+  --radius03: 18px;
+  --teal01: #00e6d6;
+  --teal02: #9dfffd;
+  --teal03: #00998f;
+  --indigo01: #152a47;
+  --indigo02: #6c90e6;
+  --gray01: #c7c7c7;
+  --gray02: #eeeeee;
+  --gray03: #212121;
+  --raleway: raleway;
+  --montserrat: montserrat;
+  --regular: 400;
+  --bold: 700;
+  --semi-bold: 500;
+  --light: 300;
   --h1: 38px;
   --h2: 34px;
   --h3: 30px;
   --h4: 26px;
   --h5: 22px;
   --h6: 18px;
-  --body: 16px;
   --subtitle: 14px;
+  --p: 16px;
   --button: 14px;
   --caption: 12px;
-  --raleway: Raleway;
-  --heading1: [object Object];
-  --montserrat: Montserrat;
-  --heading2: [object Object];
-  --heading3: [object Object];
-  --heading4: [object Object];
-  --heading5: [object Object];
-  --heading6: [object Object];
-  --subtitle-01: [object Object];
-  --body-01: [object Object];
-  --caption-01: [object Object];
-  --button-01: [object Object];
-  --gray-01: #c7c7c7;
-  --gray-02: #eeeeee;
-  --gray-03: #212121;
 }

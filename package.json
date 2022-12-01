@@ -1,6 +1,6 @@
 {
   "name": "design-tokens-library",
-  "description": "Library Design Tokens for my micro system",
+  "description": "Design Tokens Library for my micro system",
   "version": "0.2.0",
   "main": "index.html",
   "dependencies": {
@@ -12,17 +12,17 @@
   "scripts": {
     "build": "style-dictionary build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "transform": "npx token-transformer input.json tokens/tokens.json"
+    "transform": "npx token-transformer input/tokens.json tokens/processed-tokens.json"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waynestedman/design-tokens-example.git"
+    "url": "git+https://github.com/waynestedman/design-tokens-library.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/waynestedman/design-tokens-example/issues"
+    "url": "https://github.com/waynestedman/design-tokens-library/issues"
   },
-  "homepage": "https://github.com/waynestedman/design-tokens-example#readme"
+  "homepage": "https://github.com/waynestedman/design-tokens-library#readme"
 }
