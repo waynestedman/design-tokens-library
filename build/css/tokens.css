@@ -1,10 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Dec 2022 22:41:21 GMT
+ * Generated on Thu, 01 Dec 2022 22:49:35 GMT
  */
 
 :root {
-  --token-set-order-0: global;
   --radius01: 8px;
   --radius02: 50px;
   --radius03: 18px;
@@ -32,4 +31,5 @@
   --p: 16px;
   --button: 14px;
   --caption: 12px;
+  --token-set-order-0: global;
 }

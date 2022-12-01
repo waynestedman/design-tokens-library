@@ -12,7 +12,7 @@
   "scripts": {
     "build": "style-dictionary build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "transform": "npx token-transformer input/tokens.json tokens/processed-tokens.json"
+    "transform": "npx token-transformer input/tokens.json tokens/transformed-tokens.json"
   },
   "repository": {
     "type": "git",
