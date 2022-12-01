@@ -1,0 +1,36 @@
+{
+  "name": "jll-token-library",
+  "version": "0.3.5",
+  "description": "repo for the Tokens library for the JLL Design System",
+  "main": "index.html",
+  "scripts": {
+    "clean": "rm -rf build",
+    "build": "style-dictionary build --config ./config.js",
+    "tag": "npm publish --tag",
+    "transform": "npx token-transformer tokens/tokens.json input/tokens.json"
+  },
+  "repository": {
+    "url": "https://JLL-Apps3@dev.azure.com/JLL-Apps3/jllt-token-library/_git/jllt-token-library"
+  },
+  "files": [
+    "/build"
+  ],
+  "keywords": [
+    "design system",
+    "design tokens",
+    "style dictionary",
+    "JS",
+    "CSS",
+    "SASS",
+    "SCSS"
+  ],
+  "author": "Wayne Stedman",
+  "license": "ISC",
+  "dependencies": {
+    "token-transformer": "^0.0.22"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.7.0",
+    "tinycolor2": "^1.4.2"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "design-tokens-example",
-  "description": "Design Tokens for an example project",
+  "name": "design-tokens-library",
+  "description": "Library Design Tokens for my micro system",
   "version": "0.0.1",
   "main": "index.html",
   "dependencies": {
