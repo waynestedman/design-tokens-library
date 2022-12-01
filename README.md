@@ -1,2 +1,2 @@
-# Design Tokens example project
-Example project that is a repository for the tier 1 design tokens. These tokens are transformed to be read by Style Dictionary. Style diction then creates consumable versions of the token set.
+# Design Tokens Library
+Library of Design Tokens for Wayne's micro design system. This repo also handles all the processing once the tokens are exported from Figma.
