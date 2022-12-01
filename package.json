@@ -1,7 +1,7 @@
 {
   "name": "design-tokens-library",
   "description": "Library Design Tokens for my micro system",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "index.html",
   "dependencies": {
     "token-transformer": "^0.0.19"
