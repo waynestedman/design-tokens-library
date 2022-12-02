@@ -11,6 +11,7 @@
   },
   "scripts": {
     "build": "style-dictionary build",
+    "clean": "rm -rf build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "transform": "npx token-transformer input/tokens.json tokens/transformed-tokens.json"
   },
@@ -18,8 +19,16 @@
     "type": "git",
     "url": "git+https://github.com/waynestedman/design-tokens-library.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "design system",
+    "design tokens",
+    "style dictionary",
+    "JS",
+    "CSS",
+    "SASS",
+    "SCSS"
+  ],
+  "author": "Wayne Stedman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/waynestedman/design-tokens-library/issues"
