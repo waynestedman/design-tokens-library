@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 02 Dec 2022 00:30:14 GMT
+ * Generated on Sat, 03 Dec 2022 01:39:28 GMT
  */
 
 :root {
@@ -15,6 +15,7 @@
   --gray01: #c7c7c7;
   --gray02: #eeeeee;
   --gray03: #212121;
+  --error: #be3455;
   --raleway: Raleway;
   --montserrat: Montserrat;
   --light: 300;
@@ -42,5 +43,7 @@
   --body: [object Object];
   --note: [object Object];
   --button-text: [object Object];
-  --token-set-order-0: global;
+  --warning: #ed6c02;
+  --success: #2e7d32;
+  --info: #0288d1;
 }

@@ -25,19 +25,19 @@
       "buildPath": "build/js/",
       "files": [
         {
-          "destination": "color.tokens.es6.js",
+          "destination": "tokens.es6.js",
           "format": "javascript/es6"
         },
         {
-          "destination": "color.tokens.es6.d.ts",
+          "destination": "tokens.es6.d.ts",
           "format": "typescript/es6-declarations"
         },
         {
-          "destination": "color.tokens.module.js",
+          "destination": "tokens.module.js",
           "format": "javascript/module"
         },
         {
-          "destination": "color.tokens.module.d.ts",
+          "destination": "tokens.module.d.ts",
           "format": "typescript/module-declarations"
         }
       ]

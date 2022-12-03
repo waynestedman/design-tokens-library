@@ -1,200 +1,170 @@
 {
   "radius01": {
-    "value": "8px",
-    "type": "borderRadius"
+    "value": "8px"
   },
   "radius02": {
-    "value": "50px",
-    "type": "borderRadius"
+    "value": "50px"
   },
   "radius03": {
-    "value": "18px",
-    "type": "borderRadius"
+    "value": "18px"
   },
   "teal01": {
-    "value": "#00e6d6",
-    "type": "color"
+    "value": "#00e6d6"
   },
   "teal02": {
-    "value": "#9dfffd",
-    "type": "color"
+    "value": "#9dfffd"
   },
   "teal03": {
-    "value": "#00998f",
-    "type": "color"
+    "value": "#00998f"
   },
   "indigo01": {
-    "value": "#152a47",
-    "type": "color"
+    "value": "#152a47"
   },
   "indigo02": {
-    "value": "#6c90e6",
-    "type": "color"
+    "value": "#6c90e6"
   },
   "gray01": {
-    "value": "#c7c7c7",
-    "type": "color"
+    "value": "#c7c7c7"
   },
   "gray02": {
-    "value": "#eeeeee",
-    "type": "color"
+    "value": "#eeeeee"
   },
   "gray03": {
-    "value": "#212121",
-    "type": "color"
+    "value": "#212121"
+  },
+  "error": {
+    "value": "#be3455"
   },
   "Raleway": {
-    "value": "Raleway",
-    "type": "fontFamilies"
+    "value": "Raleway"
   },
   "Montserrat": {
-    "value": "Montserrat",
-    "type": "fontFamilies"
+    "value": "Montserrat"
   },
   "light": {
-    "value": 300,
-    "type": "fontWeights"
+    "value": 300
   },
   "regular": {
-    "value": 400,
-    "type": "fontWeights"
+    "value": 400
   },
   "medium": {
-    "value": 500,
-    "type": "fontWeights"
+    "value": 500
   },
   "semibold": {
-    "value": 600,
-    "type": "fontWeights"
+    "value": 600
   },
   "bold": {
-    "value": 700,
-    "type": "fontWeights"
+    "value": 700
   },
   "h1": {
-    "value": "38px",
-    "type": "fontSizes"
+    "value": "38px"
   },
   "h2": {
-    "value": "34px",
-    "type": "fontSizes"
+    "value": "34px"
   },
   "h3": {
-    "value": "30px",
-    "type": "fontSizes"
+    "value": "30px"
   },
   "h4": {
-    "value": "26px",
-    "type": "fontSizes"
+    "value": "26px"
   },
   "h5": {
-    "value": "22px",
-    "type": "fontSizes"
+    "value": "22px"
   },
   "h6": {
-    "value": "18px",
-    "type": "fontSizes"
+    "value": "18px"
   },
   "subtitle": {
-    "value": "14px",
-    "type": "fontSizes"
+    "value": "14px"
   },
   "p": {
-    "value": "16px",
-    "type": "fontSizes"
+    "value": "16px"
   },
   "button": {
-    "value": "14px",
-    "type": "fontSizes"
+    "value": "14px"
   },
   "caption": {
-    "value": "12px",
-    "type": "fontSizes"
+    "value": "12px"
   },
   "heading1": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 700,
       "fontSize": "38px"
-    },
-    "type": "typography"
+    }
   },
   "heading2": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 600,
       "fontSize": "34px"
-    },
-    "type": "typography"
+    }
   },
   "heading3": {
     "value": {
       "fontFamily": "Raleway",
       "fontSize": "30px",
       "fontWeight": 500
-    },
-    "type": "typography"
+    }
   },
   "heading4": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 500,
       "fontSize": "26px"
-    },
-    "type": "typography"
+    }
   },
   "heading5": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 400,
       "fontSize": "22px"
-    },
-    "type": "typography"
+    }
   },
   "heading6": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 400,
       "fontSize": "18px"
-    },
-    "type": "typography"
+    }
   },
   "subheading": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 400,
       "fontSize": "14px"
-    },
-    "type": "typography"
+    }
   },
   "body": {
     "value": {
       "fontFamily": "Montserrat",
       "fontWeight": 400,
       "fontSize": "16px"
-    },
-    "type": "typography"
+    }
   },
   "note": {
     "value": {
       "fontFamily": "Montserrat",
       "fontWeight": 400,
       "fontSize": "12px"
-    },
-    "type": "typography"
+    }
   },
   "buttonText": {
     "value": {
       "fontFamily": "Montserrat",
       "fontWeight": 400,
       "fontSize": "14px"
-    },
-    "type": "typography"
-  },
-  "tokenSetOrder": {
-    "0": {
-      "value": "global",
-      "type": "other"
     }
+  },
+  "warning": {
+    "value": "#ed6c02",
+    "type": "color",
+    "description": "from MUI"
+  },
+  "success": {
+    "value": "#2e7d32"
+  },
+  "info": {
+    "value": "#0288d1"
   }
 }
