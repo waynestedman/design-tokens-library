@@ -1,160 +1,208 @@
 {
   "radius01": {
-    "value": "8px"
+    "value": "8px",
+    "type": "borderRadius"
   },
   "radius02": {
-    "value": "50px"
+    "value": "50px",
+    "type": "borderRadius"
   },
   "radius03": {
-    "value": "18px"
+    "value": "18px",
+    "type": "borderRadius"
   },
   "teal01": {
-    "value": "#00e6d6"
+    "value": "#00e6d6",
+    "type": "color"
   },
   "teal02": {
-    "value": "#9dfffd"
+    "value": "#9dfffd",
+    "type": "color"
   },
   "teal03": {
-    "value": "#00998f"
+    "value": "#00998f",
+    "type": "color"
   },
   "indigo01": {
-    "value": "#152a47"
+    "value": "#152a47",
+    "type": "color"
   },
   "indigo02": {
-    "value": "#6c90e6"
+    "value": "#6c90e6",
+    "type": "color"
+  },
+  "white": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "black": {
+    "value": "#000000",
+    "type": "color"
   },
   "gray01": {
-    "value": "#c7c7c7"
+    "value": "#c7c7c7",
+    "type": "color"
   },
   "gray02": {
-    "value": "#eeeeee"
+    "value": "#eeeeee",
+    "type": "color"
   },
   "gray03": {
-    "value": "#212121"
+    "value": "#212121",
+    "type": "color"
   },
   "error": {
-    "value": "#be3455"
+    "value": "#be3455",
+    "type": "color",
+    "description": "viva magenta"
   },
   "Raleway": {
-    "value": "Raleway"
+    "value": "Raleway",
+    "type": "fontFamilies"
   },
   "Montserrat": {
-    "value": "Montserrat"
+    "value": "Montserrat",
+    "type": "fontFamilies"
   },
   "light": {
-    "value": 300
+    "value": 300,
+    "type": "fontWeights"
   },
   "regular": {
-    "value": 400
+    "value": 400,
+    "type": "fontWeights"
   },
   "medium": {
-    "value": 500
+    "value": 500,
+    "type": "fontWeights"
   },
   "semibold": {
-    "value": 600
+    "value": 600,
+    "type": "fontWeights"
   },
   "bold": {
-    "value": 700
+    "value": 700,
+    "type": "fontWeights"
   },
   "h1": {
-    "value": "38px"
+    "value": "38px",
+    "type": "fontSizes"
   },
   "h2": {
-    "value": "34px"
+    "value": "34px",
+    "type": "fontSizes"
   },
   "h3": {
-    "value": "30px"
+    "value": "30px",
+    "type": "fontSizes"
   },
   "h4": {
-    "value": "26px"
+    "value": "26px",
+    "type": "fontSizes"
   },
   "h5": {
-    "value": "22px"
+    "value": "22px",
+    "type": "fontSizes"
   },
   "h6": {
-    "value": "18px"
+    "value": "18px",
+    "type": "fontSizes"
   },
   "subtitle": {
-    "value": "14px"
+    "value": "14px",
+    "type": "fontSizes"
   },
   "p": {
-    "value": "16px"
+    "value": "16px",
+    "type": "fontSizes"
   },
   "button": {
-    "value": "14px"
+    "value": "14px",
+    "type": "fontSizes"
   },
   "caption": {
-    "value": "12px"
+    "value": "12px",
+    "type": "fontSizes"
   },
   "heading1": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 700,
       "fontSize": "38px"
-    }
+    },
+    "type": "typography"
   },
   "heading2": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 600,
       "fontSize": "34px"
-    }
+    },
+    "type": "typography"
   },
   "heading3": {
     "value": {
       "fontFamily": "Raleway",
       "fontSize": "30px",
       "fontWeight": 500
-    }
+    },
+    "type": "typography"
   },
   "heading4": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 500,
       "fontSize": "26px"
-    }
+    },
+    "type": "typography"
   },
   "heading5": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 400,
       "fontSize": "22px"
-    }
+    },
+    "type": "typography"
   },
   "heading6": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 400,
       "fontSize": "18px"
-    }
+    },
+    "type": "typography"
   },
   "subheading": {
     "value": {
       "fontFamily": "Raleway",
       "fontWeight": 400,
       "fontSize": "14px"
-    }
+    },
+    "type": "typography"
   },
   "body": {
     "value": {
       "fontFamily": "Montserrat",
       "fontWeight": 400,
       "fontSize": "16px"
-    }
+    },
+    "type": "typography"
   },
   "note": {
     "value": {
       "fontFamily": "Montserrat",
       "fontWeight": 400,
       "fontSize": "12px"
-    }
+    },
+    "type": "typography"
   },
   "buttonText": {
     "value": {
       "fontFamily": "Montserrat",
       "fontWeight": 400,
       "fontSize": "14px"
-    }
+    },
+    "type": "typography"
   },
   "warning": {
     "value": "#ed6c02",
@@ -162,9 +210,19 @@
     "description": "from MUI"
   },
   "success": {
-    "value": "#2e7d32"
+    "value": "#2e7d32",
+    "type": "color",
+    "description": "from MUI"
   },
   "info": {
-    "value": "#0288d1"
+    "value": "#0288d1",
+    "type": "color",
+    "description": "from MUI"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
   }
 }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 05 Jan 2023 23:01:49 GMT
+ * Generated on Thu, 05 Jan 2023 23:08:07 GMT
  */
 
 module.exports = {
@@ -12,6 +12,8 @@ module.exports = {
   "teal03": "#00998f",
   "indigo01": "#152a47",
   "indigo02": "#6c90e6",
+  "white": "#ffffff",
+  "black": "#000000",
   "gray01": "#c7c7c7",
   "gray02": "#eeeeee",
   "gray03": "#212121",
@@ -85,5 +87,8 @@ module.exports = {
   },
   "warning": "#ed6c02",
   "success": "#2e7d32",
-  "info": "#0288d1"
+  "info": "#0288d1",
+  "tokenSetOrder": {
+    "0": "global"
+  }
 }
