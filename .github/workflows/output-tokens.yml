@@ -1,0 +1,27 @@
+name: Output Tokens
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'input/**.json'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'input/**.json'
+
+jobs:
+  token_output:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - name: Install Node Dependencies
+      run: npm install
+    - name: Clean Style Dictionary
+      run: npm run clean
+    - name: Build Style Dictionary
+      run: npm run build
