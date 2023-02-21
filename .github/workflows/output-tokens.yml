@@ -21,7 +21,7 @@ jobs:
         node-version: 18
     - name: Install Node Dependencies
       run: npm install style-dictionary
-    - name: Clean Style Dictionary
-      run: npm run clean
+    # - name: Clean Style Dictionary
+    #   run: npm run clean
     - name: Build Style Dictionary
       run: npm run build
