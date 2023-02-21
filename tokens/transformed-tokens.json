@@ -1,4 +1,8 @@
 {
+  "test": {
+    "value": "token",
+    "type": "test"
+  },
   "radius01": {
     "value": "8px",
     "type": "borderRadius"
