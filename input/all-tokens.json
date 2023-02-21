@@ -5868,12 +5868,12 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "wayne",
       "muicolors",
       "light/base",
       "light/components",
       "dark/base",
-      "dark/components"
+      "dark/components",
+      "wayne"
     ]
   }
 }
