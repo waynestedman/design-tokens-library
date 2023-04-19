@@ -106,6 +106,30 @@
     "bold": {
       "value": "700",
       "type": "fontWeights"
+    },
+    "heading": {
+      "value": {
+        "fontFamily": "{Raleway}",
+        "fontWeight": "{medium}",
+        "fontSize": "{heading3}"
+      },
+      "type": "typography"
+    },
+    "eyebrow": {
+      "value": {
+        "fontFamily": "{Raleway}",
+        "fontWeight": "{regular}",
+        "fontSize": "{caption}"
+      },
+      "type": "typography"
+    },
+    "description": {
+      "value": {
+        "fontFamily": "{Montserrat}",
+        "fontWeight": "{light}",
+        "fontSize": "{caption}"
+      },
+      "type": "typography"
     }
   },
   "$themes": [],
