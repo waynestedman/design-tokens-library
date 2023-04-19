@@ -95,7 +95,8 @@
     "copy": {
       "value": {
         "fontFamily": "{Montserrat}",
-        "fontWeight": "{regular}"
+        "fontWeight": "{regular}",
+        "fontSize": "{paragraph}"
       },
       "type": "typography"
     },
