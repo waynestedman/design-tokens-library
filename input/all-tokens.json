@@ -60,17 +60,52 @@
       "value": "1",
       "type": "borderWidth"
     },
+    "light": {
+      "value": "300",
+      "type": "fontWeights"
+    },
     "regular": {
       "value": "400",
       "type": "fontWeights"
     },
-    "bold": {
-      "value": "700",
+    "medium": {
+      "value": "500",
       "type": "fontWeights"
     },
     "default-line-height": {
       "value": "1.75",
       "type": "lineHeights"
+    },
+    "Main-title": {
+      "value": {
+        "fontFamily": "{Raleway}",
+        "fontWeight": "{bold}",
+        "fontSize": "{heading1}"
+      },
+      "type": "typography"
+    },
+    "secondary-title": {
+      "value": {
+        "fontFamily": "{Raleway}",
+        "fontSize": "{heading2}",
+        "fontWeight": "{semibold}"
+      },
+      "type": "typography"
+    },
+    "copy": {
+      "value": {
+        "fontFamily": "{Montserrat}",
+        "fontWeight": "{regular}"
+      },
+      "type": "typography"
+    },
+    "semibold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "700",
+      "type": "fontWeights"
     }
   },
   "$themes": [],
