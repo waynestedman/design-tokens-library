@@ -131,6 +131,18 @@
         "fontSize": "{caption}"
       },
       "type": "typography"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "gray-50": {
+      "value": "#808080",
+      "type": "color"
     }
   },
   "$themes": [],
