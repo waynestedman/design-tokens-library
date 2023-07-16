@@ -1,0 +1,8 @@
+{
+  "trigger": {
+    "value":"test"
+  },
+  "test": {
+    "value":"trigger"
+  }
+}
