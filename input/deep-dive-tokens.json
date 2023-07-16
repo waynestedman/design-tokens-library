@@ -133,6 +133,16 @@
         "type": "fontSizes",
         "description": "paragraph / body text"
       },
+      "21": {
+        "value": "21.33",
+        "type": "fontSizes",
+        "description": "h5"
+      },
+      "28": {
+        "value": "28.43",
+        "type": "fontSizes",
+        "description": "h4"
+      },
       "37": {
         "value": "37.900001525878906",
         "type": "fontSizes",
@@ -189,7 +199,7 @@
       },
       "type": "typography"
     },
-    "copy": {
+    "body": {
       "value": {
         "fontFamily": "{fontFamilies.montserrat}",
         "fontWeight": "{fontWeights.montserrat-2}",
@@ -201,7 +211,8 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "body / paragraph"
     },
     "heading3": {
       "value": {
@@ -217,6 +228,33 @@
       },
       "type": "typography",
       "description": "heading level 3"
+    },
+    "heading4": {
+      "value": {
+        "fontFamily": "{fontFamilies.raleway}",
+        "fontWeight": "{fontWeights.raleway-3}",
+        "fontSize": "{fontSize.28}"
+      },
+      "type": "typography",
+      "description": "h4"
+    },
+    "heading6": {
+      "value": {
+        "fontFamily": "{fontFamilies.raleway}",
+        "fontWeight": "{fontWeights.raleway-3}",
+        "fontSize": "{fontSize.16}"
+      },
+      "type": "typography",
+      "description": "h6"
+    },
+    "heading5": {
+      "value": {
+        "fontFamily": "{fontFamilies.raleway}",
+        "fontWeight": "{fontWeights.raleway-3}",
+        "fontSize": "{fontSize.21}"
+      },
+      "type": "typography",
+      "description": "h5"
     },
     "eyebrow": {
       "value": {
