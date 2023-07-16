@@ -1,7 +1,7 @@
 {
   "name": "design-tokens-library",
   "description": "Design Tokens Library for my micro design system",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "main": "index.html",
   "dependencies": {
     "token-transformer": "^0.0.28"
@@ -13,7 +13,7 @@
     "build": "style-dictionary build",
     "clean": "rm -rf build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "transform": "npx token-transformer input/all-tokens.json tokens/transformed-tokens.json"
+    "transform": "npx token-transformer input/deep-dive-tokens.json tokens/transformed-dd-tokens.json"
   },
   "repository": {
     "type": "git",
