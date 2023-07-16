@@ -13,7 +13,7 @@
     "build": "style-dictionary build",
     "clean": "rm -rf build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "transform": "npx token-transformer input/deep-dive.json tokens/transformed-dd-tokens.json"
+    "transform": "npx token-transformer input/deep-dive-tokens.json tokens/transformed-dd-tokens.json"
   },
   "repository": {
     "type": "git",
