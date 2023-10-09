@@ -37,9 +37,10 @@
         "value": "Raleway",
         "type": "fontFamilies"
       },
-      "montserrat": {
-        "value": "Montserrat",
-        "type": "fontFamilies"
+      "bitter": {
+        "value": "Bitter",
+        "type": "fontFamilies",
+        "description": "Bitter font"
       }
     },
     "lineHeights": {
@@ -57,7 +58,7 @@
         "value": "SemiBold",
         "type": "fontWeights"
       },
-      "montserrat-2": {
+      "bitter-regular": {
         "value": "Regular",
         "type": "fontWeights"
       },
@@ -69,7 +70,7 @@
         "value": "Regular",
         "type": "fontWeights"
       },
-      "montserrat-5": {
+      "bitter-light": {
         "value": "Light",
         "type": "fontWeights"
       }
@@ -138,8 +139,8 @@
     },
     "copy": {
       "value": {
-        "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.montserrat-2}",
+        "fontFamily": "{fontFamilies.bitter}",
+        "fontWeight": "{fontWeights.bitter-regular}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.1}",
         "letterSpacing": "{letterSpacing.0}",
@@ -180,8 +181,8 @@
     },
     "description": {
       "value": {
-        "fontFamily": "{fontFamilies.montserrat}",
-        "fontWeight": "{fontWeights.montserrat-5}",
+        "fontFamily": "{fontFamilies.bitter}",
+        "fontWeight": "{fontWeights.bitter-light}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.0}",
         "letterSpacing": "{letterSpacing.0}",
