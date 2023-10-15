@@ -1,5 +1,16 @@
 {
-  "arch": {},
+  "arch": {
+    "arch": {
+      "fnd": {
+        "color": {
+          "white": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
