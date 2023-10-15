@@ -1,12 +1,10 @@
 {
   "arch": {
-    "arch": {
-      "fnd": {
-        "color": {
-          "white": {
-            "value": "#ffffff",
-            "type": "color"
-          }
+    "fnd": {
+      "color": {
+        "white": {
+          "value": "#ffffff",
+          "type": "color"
         }
       }
     }
