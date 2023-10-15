@@ -5,6 +5,100 @@
         "white": {
           "value": "#ffffff",
           "type": "color"
+        },
+        "black": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "gray50": {
+          "value": "#FAFAFA",
+          "type": "color"
+        },
+        "gray100": {
+          "value": "#F5F5F5",
+          "type": "color"
+        },
+        "gray200": {
+          "value": "#EEEEEE",
+          "type": "color"
+        },
+        "gray300": {
+          "value": "#E0E0E0",
+          "type": "color"
+        },
+        "gray400": {
+          "value": "#BDBDBD",
+          "type": "color"
+        },
+        "gray500": {
+          "value": "#9E9E9E",
+          "type": "color"
+        },
+        "gray600": {
+          "value": "#757575",
+          "type": "color"
+        },
+        "gray700": {
+          "value": "#616161",
+          "type": "color"
+        },
+        "gray800": {
+          "value": "#424242",
+          "type": "color"
+        },
+        "gray900": {
+          "value": "#212121",
+          "type": "color"
+        },
+        "emerald50": {
+          "value": "#DFF0EE",
+          "type": "color"
+        },
+        "emerald100": {
+          "value": "#B0DBD5",
+          "type": "color"
+        },
+        "emerald200": {
+          "value": "#7DC4BA",
+          "type": "color"
+        },
+        "emerald300": {
+          "value": "#4AAC9E",
+          "type": "color"
+        },
+        "emerald400": {
+          "value": "#259B8B",
+          "type": "color"
+        },
+        "emerald500": {
+          "value": "#028A78",
+          "type": "color"
+        },
+        "emerald600": {
+          "value": "#017D6C",
+          "type": "color"
+        },
+        "emerald700": {
+          "value": "#016E5D",
+          "type": "color"
+        },
+        "emerald800": {
+          "value": "#005E4F",
+          "type": "color",
+          "description": "Primary Emerald"
+        },
+        "emerald900": {
+          "value": "#004334",
+          "type": "color"
+        }
+      }
+    },
+    "wall": {
+      "color": {
+        "primary": {
+          "value": "{fnd.color.emerald800}",
+          "type": "color",
+          "description": "tier 2 - primary emerald"
         }
       }
     }
