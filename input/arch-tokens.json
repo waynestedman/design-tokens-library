@@ -91,6 +91,66 @@
           "value": "#004334",
           "type": "color"
         }
+      },
+      "type": {
+        "font-family": {
+          "raleway": {
+            "value": "Raleway",
+            "type": "fontFamilies"
+          },
+          "bitter": {
+            "value": "Bitter",
+            "type": "fontFamilies"
+          }
+        },
+        "font-weight": {
+          "300": {
+            "value": "300",
+            "type": "fontWeights"
+          },
+          "400": {
+            "value": "400",
+            "type": "fontWeights"
+          },
+          "500": {
+            "value": "500",
+            "type": "fontWeights"
+          },
+          "700": {
+            "value": "700",
+            "type": "fontWeights"
+          }
+        },
+        "font-size": {
+          "14": {
+            "value": "14px",
+            "type": "fontSizes"
+          },
+          "16": {
+            "value": "16px",
+            "type": "fontSizes"
+          },
+          "22": {
+            "value": "22px",
+            "type": "fontSizes"
+          },
+          "28": {
+            "value": "28px",
+            "type": "fontSizes"
+          },
+          "38": {
+            "value": "38px",
+            "type": "fontSizes"
+          },
+          "50": {
+            "value": "50px",
+            "type": "fontSizes"
+          },
+          "68": {
+            "value": "68px",
+            "type": "fontSizes"
+          }
+        }
       }
     },
     "wall": {
@@ -99,6 +159,80 @@
           "value": "{fnd.color.emerald800}",
           "type": "color",
           "description": "tier 2 - primary emerald"
+        }
+      },
+      "type": {
+        "paragraph": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.bitter}",
+            "fontWeight": "{fnd.type.font-weight.400}",
+            "fontSize": "{fnd.type.font-size.16}"
+          },
+          "type": "typography"
+        },
+        "caption": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.bitter}",
+            "fontWeight": "{fnd.type.font-weight.300}",
+            "fontSize": "{fnd.type.font-size.14}"
+          },
+          "type": "typography"
+        },
+        "eyebrow": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.raleway}",
+            "fontWeight": "{fnd.type.font-weight.400}",
+            "fontSize": "{fnd.type.font-size.14}"
+          },
+          "type": "typography"
+        },
+        "heading1": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.raleway}",
+            "fontWeight": "{fnd.type.font-weight.700}",
+            "fontSize": "{fnd.type.font-size.68}"
+          },
+          "type": "typography"
+        },
+        "heading2": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.raleway}",
+            "fontWeight": "{fnd.type.font-weight.700}",
+            "fontSize": "{fnd.type.font-size.50}"
+          },
+          "type": "typography"
+        },
+        "heading3": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.raleway}",
+            "fontWeight": "{fnd.type.font-weight.500}",
+            "fontSize": "{fnd.type.font-size.38}"
+          },
+          "type": "typography"
+        },
+        "heading4": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.raleway}",
+            "fontWeight": "{fnd.type.font-weight.500}",
+            "fontSize": "{fnd.type.font-size.28}"
+          },
+          "type": "typography"
+        },
+        "heading5": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.raleway}",
+            "fontWeight": "{fnd.type.font-weight.500}",
+            "fontSize": "{fnd.type.font-size.22}"
+          },
+          "type": "typography"
+        },
+        "heading6": {
+          "value": {
+            "fontFamily": "{fnd.type.font-family.raleway}",
+            "fontWeight": "{fnd.type.font-weight.400}",
+            "fontSize": "{fnd.type.font-size.16}"
+          },
+          "type": "typography"
         }
       }
     }
