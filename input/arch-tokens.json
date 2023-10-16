@@ -152,8 +152,8 @@
           }
         },
         "line-height": {
-          "1-5": {
-            "value": "1.5",
+          "auto": {
+            "value": "auto",
             "type": "lineHeights"
           }
         }
@@ -173,7 +173,7 @@
             "fontFamily": "{fnd.type.font-family.bitter}",
             "fontWeight": "{fnd.type.font-weight.400}",
             "fontSize": "{fnd.type.font-size.16}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -182,7 +182,7 @@
             "fontFamily": "{fnd.type.font-family.bitter}",
             "fontWeight": "{fnd.type.font-weight.300}",
             "fontSize": "{fnd.type.font-size.14}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -191,7 +191,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.400}",
             "fontSize": "{fnd.type.font-size.14}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -200,7 +200,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.700}",
             "fontSize": "{fnd.type.font-size.68}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -209,7 +209,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.700}",
             "fontSize": "{fnd.type.font-size.50}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -218,7 +218,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.500}",
             "fontSize": "{fnd.type.font-size.38}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -227,7 +227,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.500}",
             "fontSize": "{fnd.type.font-size.28}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -236,7 +236,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.500}",
             "fontSize": "{fnd.type.font-size.22}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         },
@@ -245,7 +245,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.400}",
             "fontSize": "{fnd.type.font-size.16}",
-            "lineHeight": "{fnd.type.line-height.1-5}"
+            "lineHeight": "{fnd.type.line-height.auto}"
           },
           "type": "typography"
         }
