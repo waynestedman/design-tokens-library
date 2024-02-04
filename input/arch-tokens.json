@@ -130,6 +130,10 @@
         "brown900": {
           "value": "#1C0D06",
           "type": "color"
+        },
+        "brown1000": {
+          "value": "#090402",
+          "type": "color"
         }
       },
       "type": {
