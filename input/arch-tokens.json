@@ -91,6 +91,45 @@
         "emerald900": {
           "value": "#004334",
           "type": "color"
+        },
+        "brown100": {
+          "value": "#FAEBE5",
+          "type": "color",
+          "description": "primary wood brown"
+        },
+        "brown200": {
+          "value": "#F1CEBD",
+          "type": "color",
+          "description": "primary wood brown"
+        },
+        "brown300": {
+          "value": "#E49C7B",
+          "type": "color"
+        },
+        "brown400": {
+          "value": "#D66B39",
+          "type": "color"
+        },
+        "brown500": {
+          "value": "#9F4921",
+          "type": "color"
+        },
+        "brown600": {
+          "value": "#5D2813",
+          "type": "color",
+          "description": "primary wood brown"
+        },
+        "brown700": {
+          "value": "#411E0D",
+          "type": "color"
+        },
+        "brown800": {
+          "value": "#2F150A",
+          "type": "color"
+        },
+        "brown900": {
+          "value": "#1C0D06",
+          "type": "color"
         }
       },
       "type": {
@@ -166,6 +205,11 @@
           "value": "{fnd.color.emerald800}",
           "type": "color",
           "description": "tier 2 - primary emerald"
+        },
+        "primay-gray": {
+          "value": "{fnd.color.gray100}",
+          "type": "color",
+          "description": "tier 2 primary gray"
         }
       },
       "type": {
