@@ -6,48 +6,49 @@
           "value": "#ffffff",
           "type": "color"
         },
-        "black": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "gray50": {
-          "value": "#FAFAFA",
-          "type": "color"
-        },
         "gray100": {
-          "value": "#F5F5F5",
-          "type": "color"
+          "value": "#F7F7F7",
+          "type": "color",
+          "description": "primary warm gray"
         },
         "gray200": {
-          "value": "#EEEEEE",
+          "value": "#DFDFDF",
           "type": "color"
         },
         "gray300": {
-          "value": "#E0E0E0",
+          "value": "#C6C6C6",
           "type": "color"
         },
         "gray400": {
-          "value": "#BDBDBD",
+          "value": "#ADADAD",
           "type": "color"
         },
         "gray500": {
-          "value": "#9E9E9E",
+          "value": "#949494",
           "type": "color"
         },
         "gray600": {
-          "value": "#757575",
+          "value": "#7C7C7C",
           "type": "color"
         },
         "gray700": {
-          "value": "#616161",
+          "value": "#636363",
           "type": "color"
         },
         "gray800": {
-          "value": "#424242",
+          "value": "#4A4A4A",
           "type": "color"
         },
         "gray900": {
-          "value": "#212121",
+          "value": "#313131",
+          "type": "color"
+        },
+        "gray1000": {
+          "value": "#191919",
+          "type": "color"
+        },
+        "black": {
+          "value": "#000000",
           "type": "color"
         },
         "emerald50": {
