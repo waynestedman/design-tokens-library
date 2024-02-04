@@ -210,6 +210,16 @@
           "value": "{fnd.color.gray100}",
           "type": "color",
           "description": "tier 2 primary gray"
+        },
+        "wood": {
+          "value": "{fnd.color.brown600}",
+          "type": "color",
+          "description": "wood brown"
+        },
+        "dark-wood": {
+          "value": "{fnd.color.brown900}",
+          "type": "color",
+          "description": "dark wood brown"
         }
       },
       "type": {
