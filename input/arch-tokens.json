@@ -92,46 +92,46 @@
           "value": "#004334",
           "type": "color"
         },
-        "brown100": {
+        "brown50": {
           "value": "#FAEBE5",
           "type": "color",
           "description": "primary wood brown"
         },
-        "brown200": {
+        "brown100": {
           "value": "#F1CEBD",
           "type": "color",
           "description": "primary wood brown"
         },
-        "brown300": {
+        "brown200": {
           "value": "#E49C7B",
           "type": "color"
         },
-        "brown400": {
+        "brown300": {
           "value": "#D66B39",
           "type": "color"
         },
-        "brown500": {
+        "brown400": {
           "value": "#9F4921",
           "type": "color"
         },
-        "brown600": {
+        "brown500": {
           "value": "#5D2813",
           "type": "color",
           "description": "primary wood brown"
         },
-        "brown700": {
+        "brown600": {
           "value": "#411E0D",
           "type": "color"
         },
-        "brown800": {
+        "brown700": {
           "value": "#2F150A",
           "type": "color"
         },
-        "brown900": {
+        "brown800": {
           "value": "#1C0D06",
           "type": "color"
         },
-        "brown1000": {
+        "brown900": {
           "value": "#090402",
           "type": "color"
         }
@@ -210,20 +210,24 @@
           "type": "color",
           "description": "tier 2 - primary emerald"
         },
-        "primay-gray": {
-          "value": "{fnd.color.gray100}",
-          "type": "color",
-          "description": "tier 2 primary gray"
+        "almond": {
+          "value": "{fnd.color.brown50}",
+          "type": "color"
         },
         "wood": {
-          "value": "{fnd.color.brown600}",
+          "value": "{fnd.color.brown500}",
           "type": "color",
           "description": "wood brown"
         },
         "dark-wood": {
-          "value": "{fnd.color.brown900}",
+          "value": "{fnd.color.brown800}",
           "type": "color",
           "description": "dark wood brown"
+        },
+        "primay-gray": {
+          "value": "{fnd.color.gray100}",
+          "type": "color",
+          "description": "tier 2 primary gray"
         }
       },
       "type": {
