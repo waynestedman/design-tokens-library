@@ -178,29 +178,69 @@
             "value": "22px",
             "type": "fontSizes"
           },
-          "28": {
-            "value": "28px",
+          "30": {
+            "value": "30px",
             "type": "fontSizes"
           },
-          "38": {
-            "value": "38px",
+          "40": {
+            "value": "40px",
             "type": "fontSizes"
           },
-          "50": {
-            "value": "50px",
+          "54": {
+            "value": "54px",
             "type": "fontSizes"
           },
-          "68": {
-            "value": "68px",
+          "72": {
+            "value": "72px",
+            "type": "fontSizes"
+          },
+          "96": {
+            "value": "96px",
+            "type": "fontSizes"
+          },
+          "128": {
+            "value": "128px",
             "type": "fontSizes"
           }
         },
         "line-height": {
+          "150": {
+            "value": "150%",
+            "type": "lineHeights"
+          },
           "auto": {
             "value": "auto",
             "type": "lineHeights"
           }
         }
+      },
+      "border-width1": {
+        "value": "1px",
+        "type": "borderWidth"
+      },
+      "border-width2": {
+        "value": "2px",
+        "type": "borderWidth"
+      },
+      "border-radius4": {
+        "value": "4px",
+        "type": "borderRadius"
+      },
+      "border-radius8": {
+        "value": "8px",
+        "type": "borderRadius"
+      },
+      "border-radius16": {
+        "value": "16px",
+        "type": "borderRadius"
+      },
+      "border-radius32": {
+        "value": "32px",
+        "type": "borderRadius"
+      },
+      "border-radius48": {
+        "value": "48px",
+        "type": "borderRadius"
       }
     },
     "wall": {
@@ -236,7 +276,7 @@
             "fontFamily": "{fnd.type.font-family.bitter}",
             "fontWeight": "{fnd.type.font-weight.400}",
             "fontSize": "{fnd.type.font-size.16}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -245,7 +285,7 @@
             "fontFamily": "{fnd.type.font-family.bitter}",
             "fontWeight": "{fnd.type.font-weight.300}",
             "fontSize": "{fnd.type.font-size.14}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -254,7 +294,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.400}",
             "fontSize": "{fnd.type.font-size.14}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -262,8 +302,8 @@
           "value": {
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.700}",
-            "fontSize": "{fnd.type.font-size.68}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "fontSize": "{fnd.type.font-size.72}",
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -271,8 +311,8 @@
           "value": {
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.700}",
-            "fontSize": "{fnd.type.font-size.50}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "fontSize": "{fnd.type.font-size.54}",
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -280,8 +320,8 @@
           "value": {
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.500}",
-            "fontSize": "{fnd.type.font-size.38}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "fontSize": "{fnd.type.font-size.40}",
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -289,8 +329,8 @@
           "value": {
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.500}",
-            "fontSize": "{fnd.type.font-size.28}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "fontSize": "{fnd.type.font-size.30}",
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -299,7 +339,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.500}",
             "fontSize": "{fnd.type.font-size.22}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         },
@@ -308,7 +348,7 @@
             "fontFamily": "{fnd.type.font-family.raleway}",
             "fontWeight": "{fnd.type.font-weight.400}",
             "fontSize": "{fnd.type.font-size.16}",
-            "lineHeight": "{fnd.type.line-height.auto}"
+            "lineHeight": "{fnd.type.line-height.150}"
           },
           "type": "typography"
         }
