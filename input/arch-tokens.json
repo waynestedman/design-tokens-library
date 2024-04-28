@@ -319,7 +319,7 @@
         "heading3": {
           "value": {
             "fontFamily": "{fnd.type.font-family.raleway}",
-            "fontWeight": "{fnd.type.font-weight.500}",
+            "fontWeight": "{fnd.type.font-weight.700}",
             "fontSize": "{fnd.type.font-size.40}",
             "lineHeight": "{fnd.type.line-height.150}"
           },
@@ -346,7 +346,7 @@
         "heading6": {
           "value": {
             "fontFamily": "{fnd.type.font-family.raleway}",
-            "fontWeight": "{fnd.type.font-weight.400}",
+            "fontWeight": "{fnd.type.font-weight.500}",
             "fontSize": "{fnd.type.font-size.16}",
             "lineHeight": "{fnd.type.line-height.150}"
           },
