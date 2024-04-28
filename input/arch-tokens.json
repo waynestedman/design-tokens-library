@@ -265,7 +265,7 @@
           "description": "dark wood brown"
         },
         "primay-gray": {
-          "value": "{fnd.color.gray100}",
+          "value": "{fnd.color.gray600}",
           "type": "color",
           "description": "tier 2 primary gray"
         }
