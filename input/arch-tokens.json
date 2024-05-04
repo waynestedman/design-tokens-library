@@ -252,22 +252,23 @@
         },
         "almond": {
           "value": "{fnd.color.brown50}",
-          "type": "color"
+          "type": "color",
+          "description": "tier 2 - almond (light brown)"
         },
         "wood": {
           "value": "{fnd.color.brown500}",
           "type": "color",
-          "description": "wood brown"
+          "description": "tier 2 - wood brown (medium brown)"
         },
         "dark-wood": {
           "value": "{fnd.color.brown700}",
           "type": "color",
-          "description": "dark wood brown"
+          "description": "tier 2 - dark wood brown (dark brown)"
         },
         "primay-gray": {
           "value": "{fnd.color.gray600}",
           "type": "color",
-          "description": "tier 2 primary gray"
+          "description": "tier 2 - primary gray"
         }
       },
       "type": {
