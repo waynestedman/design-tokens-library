@@ -260,7 +260,7 @@
           "description": "wood brown"
         },
         "dark-wood": {
-          "value": "{fnd.color.brown800}",
+          "value": "{fnd.color.brown700}",
           "type": "color",
           "description": "dark wood brown"
         },
