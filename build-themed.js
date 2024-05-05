@@ -29,7 +29,7 @@ const configs = Object.entries(themes).map(([name, tokensets]) => ({
         'ts/shadow/css/shorthand',
         'ts/color/css/hexrgba',
         'ts/color/modifiers',
-        'name/cti/kebab',
+        'name/kebab',
       ],
       prefix: '',
       buildPath: 'build/css/',
@@ -44,7 +44,7 @@ const configs = Object.entries(themes).map(([name, tokensets]) => ({
       buildPath: 'build/scss/',
       prefix: '',
       transforms: [
-        'name/cti/kebab',
+        'name/kebab',
         'ts/descriptionToComment',
         'ts/size/px',
         'ts/typography/fontWeight',
