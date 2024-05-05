@@ -1,0 +1,357 @@
+{
+  "fnd": {
+    "color": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "gray100": {
+        "value": "#F7F7F7",
+        "type": "color",
+        "description": "primary warm gray"
+      },
+      "gray200": {
+        "value": "#DFDFDF",
+        "type": "color"
+      },
+      "gray300": {
+        "value": "#C6C6C6",
+        "type": "color"
+      },
+      "gray400": {
+        "value": "#ADADAD",
+        "type": "color"
+      },
+      "gray500": {
+        "value": "#949494",
+        "type": "color"
+      },
+      "gray600": {
+        "value": "#7C7C7C",
+        "type": "color"
+      },
+      "gray700": {
+        "value": "#636363",
+        "type": "color"
+      },
+      "gray800": {
+        "value": "#4A4A4A",
+        "type": "color"
+      },
+      "gray900": {
+        "value": "#313131",
+        "type": "color"
+      },
+      "gray1000": {
+        "value": "#191919",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "emerald50": {
+        "value": "#DFF0EE",
+        "type": "color"
+      },
+      "emerald100": {
+        "value": "#B0DBD5",
+        "type": "color"
+      },
+      "emerald200": {
+        "value": "#7DC4BA",
+        "type": "color"
+      },
+      "emerald300": {
+        "value": "#4AAC9E",
+        "type": "color"
+      },
+      "emerald400": {
+        "value": "#259B8B",
+        "type": "color"
+      },
+      "emerald500": {
+        "value": "#028A78",
+        "type": "color"
+      },
+      "emerald600": {
+        "value": "#017D6C",
+        "type": "color"
+      },
+      "emerald700": {
+        "value": "#016E5D",
+        "type": "color"
+      },
+      "emerald800": {
+        "value": "#005E4F",
+        "type": "color",
+        "description": "Primary Emerald"
+      },
+      "emerald900": {
+        "value": "#004334",
+        "type": "color"
+      },
+      "brown50": {
+        "value": "#FAEBE5",
+        "type": "color",
+        "description": "primary wood brown"
+      },
+      "brown100": {
+        "value": "#F1CEBD",
+        "type": "color",
+        "description": "primary wood brown"
+      },
+      "brown200": {
+        "value": "#E49C7B",
+        "type": "color"
+      },
+      "brown300": {
+        "value": "#D66B39",
+        "type": "color"
+      },
+      "brown400": {
+        "value": "#9F4921",
+        "type": "color"
+      },
+      "brown500": {
+        "value": "#5D2813",
+        "type": "color",
+        "description": "primary wood brown"
+      },
+      "brown600": {
+        "value": "#411E0D",
+        "type": "color"
+      },
+      "brown700": {
+        "value": "#2F150A",
+        "type": "color"
+      },
+      "brown800": {
+        "value": "#1C0D06",
+        "type": "color"
+      },
+      "brown900": {
+        "value": "#090402",
+        "type": "color"
+      }
+    },
+    "type": {
+      "font-family": {
+        "raleway": {
+          "value": "Raleway",
+          "type": "fontFamilies"
+        },
+        "bitter": {
+          "value": "Bitter",
+          "type": "fontFamilies"
+        }
+      },
+      "font-weight": {
+        "300": {
+          "value": "300",
+          "type": "fontWeights"
+        },
+        "400": {
+          "value": "400",
+          "type": "fontWeights"
+        },
+        "500": {
+          "value": "500",
+          "type": "fontWeights"
+        },
+        "700": {
+          "value": "700",
+          "type": "fontWeights"
+        }
+      },
+      "font-size": {
+        "14": {
+          "value": "14px",
+          "type": "fontSizes"
+        },
+        "16": {
+          "value": "16px",
+          "type": "fontSizes"
+        },
+        "22": {
+          "value": "22px",
+          "type": "fontSizes"
+        },
+        "30": {
+          "value": "30px",
+          "type": "fontSizes"
+        },
+        "40": {
+          "value": "40px",
+          "type": "fontSizes"
+        },
+        "54": {
+          "value": "54px",
+          "type": "fontSizes"
+        },
+        "72": {
+          "value": "72px",
+          "type": "fontSizes"
+        },
+        "96": {
+          "value": "96px",
+          "type": "fontSizes"
+        },
+        "128": {
+          "value": "128px",
+          "type": "fontSizes"
+        }
+      },
+      "line-height": {
+        "150": {
+          "value": "150%",
+          "type": "lineHeights"
+        },
+        "auto": {
+          "value": "auto",
+          "type": "lineHeights"
+        }
+      }
+    },
+    "border-width1": {
+      "value": "1px",
+      "type": "borderWidth"
+    },
+    "border-width2": {
+      "value": "2px",
+      "type": "borderWidth"
+    },
+    "border-radius4": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "border-radius8": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "border-radius16": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "border-radius32": {
+      "value": "32px",
+      "type": "borderRadius"
+    },
+    "border-radius48": {
+      "value": "48px",
+      "type": "borderRadius"
+    }
+  },
+  "wall": {
+    "color": {
+      "primary": {
+        "value": "{fnd.color.emerald800}",
+        "type": "color",
+        "description": "tier 2 - primary emerald"
+      },
+      "almond": {
+        "value": "{fnd.color.brown50}",
+        "type": "color",
+        "description": "tier 2 - almond (light brown)"
+      },
+      "wood": {
+        "value": "{fnd.color.brown500}",
+        "type": "color",
+        "description": "tier 2 - wood brown (medium brown)"
+      },
+      "dark-wood": {
+        "value": "{fnd.color.brown700}",
+        "type": "color",
+        "description": "tier 2 - dark wood brown (dark brown)"
+      },
+      "primay-gray": {
+        "value": "{fnd.color.gray600}",
+        "type": "color",
+        "description": "tier 2 - primary gray"
+      }
+    },
+    "type": {
+      "paragraph": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.bitter}",
+          "fontWeight": "{fnd.type.font-weight.400}",
+          "fontSize": "{fnd.type.font-size.16}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "caption": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.bitter}",
+          "fontWeight": "{fnd.type.font-weight.300}",
+          "fontSize": "{fnd.type.font-size.14}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "eyebrow": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.raleway}",
+          "fontWeight": "{fnd.type.font-weight.400}",
+          "fontSize": "{fnd.type.font-size.14}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "heading1": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.raleway}",
+          "fontWeight": "{fnd.type.font-weight.700}",
+          "fontSize": "{fnd.type.font-size.72}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "heading2": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.raleway}",
+          "fontWeight": "{fnd.type.font-weight.700}",
+          "fontSize": "{fnd.type.font-size.54}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "heading3": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.raleway}",
+          "fontWeight": "{fnd.type.font-weight.700}",
+          "fontSize": "{fnd.type.font-size.40}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "heading4": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.raleway}",
+          "fontWeight": "{fnd.type.font-weight.500}",
+          "fontSize": "{fnd.type.font-size.30}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "heading5": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.raleway}",
+          "fontWeight": "{fnd.type.font-weight.500}",
+          "fontSize": "{fnd.type.font-size.22}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      },
+      "heading6": {
+        "value": {
+          "fontFamily": "{fnd.type.font-family.raleway}",
+          "fontWeight": "{fnd.type.font-weight.500}",
+          "fontSize": "{fnd.type.font-size.16}",
+          "lineHeight": "{fnd.type.line-height.150}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

@@ -9,10 +9,10 @@ import {
 // See docs: https://github.com/tokens-studio/sd-transforms
 registerTransforms(StyleDictionary);
 
-const $themes = JSON.parse(readFileSync('themed/$themes.json', 'utf-8'));
+const $themes = JSON.parse(readFileSync('tokens/$themes.json', 'utf-8'));
 const themes = permutateThemes($themes, { seperator: '_' });
 const configs = Object.entries(themes).map(([name, tokensets]) => ({
-  source: tokensets.map((tokenset) => `themed/${tokenset}.json`),
+  source: tokensets.map((tokenset) => `tokens/${tokenset}.json`),
   platforms: {
     css: {
       transforms: [

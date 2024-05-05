@@ -1,9 +1,6 @@
 import StyleDictionary from 'style-dictionary';
 import { registerTransforms } from '@tokens-studio/sd-transforms';
 
-
-// will register them on StyleDictionary object
-// that is installed as a dependency of this package.
 registerTransforms(StyleDictionary);
 
 const sd = StyleDictionary.extend({
