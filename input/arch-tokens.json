@@ -363,8 +363,7 @@
       "name": "arch",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "foundation": "enabled",
-        "wall": "disabled"
+        "foundation": "enabled"
       }
     }
   ],
