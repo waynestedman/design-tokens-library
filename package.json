@@ -1,7 +1,7 @@
 {
   "name": "design-tokens-library",
   "description": "Design Tokens Library for Wayne's design system",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "type": "module",
   "main": "index.html",
   "dependencies": {
